@@ -26,3 +26,7 @@ melhoria 2
     2. Sub funcionalidade 2
     3. Sub funcionalidade 3
     4. Sub funcionalidade 4
+
+#### Imagem local
+
+![Logo](img/python.png)

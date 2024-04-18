@@ -4,7 +4,7 @@ Vamos criar um **e-commerce**, para a *empresa* x e blablabla
 
 ## Funcionalidades:
 
-Funcionalidades, teste, etc.
+_Funcionalidades, **teste**, etc._
 
 ###### Melhorias do projeto:
 

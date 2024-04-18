@@ -51,3 +51,11 @@ function soma(a, b){
     return a + b;
 }
 ```
+
+## Tarefas a fazer
+
+- [] Tarefa 1
+
+- [] Tarefa 2 
+
+- [x] Tarefa 3

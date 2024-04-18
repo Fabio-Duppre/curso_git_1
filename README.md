@@ -54,8 +54,8 @@ function soma(a, b){
 
 ## Tarefas a fazer
 
-- [] Tarefa 1
+- [ ] Tarefa 1
 
-- [] Tarefa 2 
+- [ ] Tarefa 2 
 
 - [x] Tarefa 3

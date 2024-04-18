@@ -42,3 +42,12 @@ melhoria 2
 ## link com imagem
 
 [![LogoPHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png)](https://www.google.com.br/?hl=pt-BR)
+
+
+## Código da função soma
+
+```javascript
+function soma(a, b){
+    return a + b;
+}
+```

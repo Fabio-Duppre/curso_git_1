@@ -2,6 +2,8 @@
 
 Vamos criar um **e-commerce**, para a *empresa* x 
 
+* repositório criado com a finalidade de aprender comandos e ações básicas do github*
+
 ## Funcionalidades:
 
 _Funcionalidades, **teste**, etc._
